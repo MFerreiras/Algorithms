@@ -1,3 +1,3 @@
 # Algorithms
 
-Here are all my algorithms solved by some online judges mouth, coj, codeforces and hackerank
+Here are all my algorithms solved by some online judges coj, codeforces and hackerank.
